@@ -1,1 +1,4 @@
-robots
+User-agent: *
+Allow: /
+Sitemap: https://hamzaouiyassine61-max.github.io/nightfall/sitemap.xml
+Sitemap: https://hamzaouiyassine61-max.github.io/nightfall/news-sitemap.xml
